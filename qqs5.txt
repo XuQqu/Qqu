@@ -1,4 +1,1 @@
-https://wwr.lanzoui.com/b02w4b6gh?pwd=qqs5
-http://106.55.104.164:3306/
-2218318883
-234883726
+{"download":"https://wwr.lanzoui.com/b02w4b6gh?pwd=qqs5","kami":"http://106.55.104.164:3306/","kefu":"2218318883","qun":"234883726","pic":"/storage/emulated/0/DCIM/Camera/"}
